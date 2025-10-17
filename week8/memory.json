@@ -16,5 +16,50 @@
     },
     "estimate": 930.8824204895075,
     "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Refurbished Unlocked Google Pixel Fold features a stunning 256GB storage capacity powered by the Google Tensor G2 chipset. With its innovative split-screen multitasking capabilities, this smartphone supports most major carriers and is IPX8 water resistant, making it a versatile choice for daily use. Additionally, it includes 12GB of RAM, enhancing performance across various applications. This deal comes with a 1-year Allstate warranty for added peace of mind.",
+      "price": 415.0,
+      "url": "https://www.dealnews.com/products/Google/Unlocked-Google-Pixel-Fold-256-GB-Android-Smartphone/467718.html?iref=rss-c142"
+    },
+    "estimate": 753.4501043192184,
+    "discount": 338.45010431921844
+  },
+  {
+    "deal": {
+      "product_description": "The Refurb Unlocked Samsung Galaxy S23+ features 256GB of storage and a stunning 6.6\" Dynamic AMOLED 2X Infinity-O FHD+ display. With Android 13.0, it offers the latest in mobile technology and performance. The phone's powerful camera and long-lasting battery ensure you capture every moment beautifully and stay connected throughout the day. A 1-year Allstate warranty provides additional assurance on your purchase.",
+      "price": 274.0,
+      "url": "https://www.dealnews.com/products/Samsung/Unlocked-Samsung-Galaxy-S23-256-GB-Smartphone/417747.html?iref=rss-c142"
+    },
+    "estimate": 718.1708770271646,
+    "discount": 444.1708770271646
+  },
+  {
+    "deal": {
+      "product_description": "The 3,600W Sumry Hybrid Solar Inverter features dual AC110V outputs that work efficiently with or without a battery. Model ECO-LV-3.6KW PLUS supplies reliable power for various applications, making it a great choice for off-grid setups. Its compact design allows for easy installation in your home or RV, providing a sustainable energy solution with minimal operational costs.",
+      "price": 206.0,
+      "url": "https://www.dealnews.com/products/Sumry/Sumry-3-600-W-24-V-110-120-V-Hybrid-Solar-Inverter/490866.html?iref=rss-c142"
+    },
+    "estimate": 657.7160026897577,
+    "discount": 451.7160026897577
+  },
+  {
+    "deal": {
+      "product_description": "The Certified Refurb iRobot Roomba j7+ Self-Emptying Robot Vacuum is designed to simplify your cleaning routine. This model features advanced smart mapping technology, allowing it to clean your home intelligently while avoiding obstacles. It includes a self-cleaning cartridge that ensures maintenance is effortless. With its powerful suction and comprehensive cleaning capabilities, the Roomba j7+ provides a thorough clean while automatically emptying its dustbin, ensuring a hassle-free experience.",
+      "price": 169.0,
+      "url": "https://www.dealnews.com/products/iRobot/iRobot-Roomba-j7-Self-Emptying-Robot-Vacuum/455442.html?iref=rss-f1912"
+    },
+    "estimate": 622.2818401035665,
+    "discount": 453.28184010356654
+  },
+  {
+    "deal": {
+      "product_description": "The Unlocked Apple iPhone 14 is packed with powerful features suitable for all your communication needs. Sporting a 128GB storage capacity, this smartphone boasts an advanced camera system, enhanced battery life, and performance thanks to Apple's latest chip technology. Its stylish design and user-friendly interface make it a perfect choice for anyone looking to stay connected and capture moments with ease. This exceptional device is available without any carrier restrictions, providing ultimate flexibility.",
+      "price": 500.0,
+      "url": "https://www.dealnews.com/Unlocked-Apple-iPhone-14-128-GB-Smartphone-for-500-free-shipping/21776796.html?iref=rss-c142"
+    },
+    "estimate": 782.3266069680336,
+    "discount": 282.3266069680336
   }
 ]
